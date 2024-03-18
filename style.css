@@ -25,5 +25,7 @@ td{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     border: 3px solid;
 }
-
-
+col {
+    display: table-column;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
